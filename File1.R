@@ -1,3 +1,9 @@
+# A few key points about Linear Regression:
+# Fast and easy to model and is particularly useful when the relationship to be modeled is not extremely complex and if you don’t have a lot of data.
+# Very intuitive to understand and interpret.
+# Linear Regression is very sensitive to outliers.
+
+
 x = read.csv(file.choose())
 library(readr)
 View(x)
